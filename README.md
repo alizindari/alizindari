@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Ali Zindari. I recently graduated from Isfahan University of Tech. with a bachelor's degree in Computer Engineering.
-- 👀 I’m interested in many aspects of ML including: Representation Learning, Self-Supervised Learning, Adversarial Robustness and Optimization.
-- 📫 Reach me out on zindari.ali[at]gmail.com
+- 👋 Hi, I’m Ali Zindari. I'm a first year PhD student at CISPA and EPFL interested in theory of deep learning and optimization. 
 <!---
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
